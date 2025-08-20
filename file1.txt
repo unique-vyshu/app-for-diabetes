@@ -1,1 +1,1 @@
-Sample file added for showing git example
+Modified file 1
